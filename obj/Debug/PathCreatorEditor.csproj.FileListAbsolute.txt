@@ -1,0 +1,2 @@
+C:\Users\DellPc\Snake the Crusher\obj\Debug\PathCreatorEditor.csprojAssemblyReference.cache
+C:\Users\DellPc\Snake the Crusher\obj\Debug\PathCreatorEditor.csproj.CoreCompileInputs.cache
