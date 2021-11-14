@@ -1,2 +1,2 @@
 
-![]("Screenshot_24.png")
+![](Screenshot_24.png)
